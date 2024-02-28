@@ -1,0 +1,1 @@
+TOKEN = 'smieszne ale nic tu nie ma :)))))))'

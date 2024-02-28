@@ -15,7 +15,7 @@ database_path = r'/Users/iwnl-re1zo/Documents/dev/python/studia/bot-hosting/back
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Looking for new members :/"))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="trying to have some fun :/"))
     print("NekoGirl testing new toys")
     pass
 
